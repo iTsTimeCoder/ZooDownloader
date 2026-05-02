@@ -1,4 +1,8 @@
-build/
 *.exe
-*.obj
-*.dll
+*.zip
+*.rar
+*.7z
+build/
+bin/
+ffmpeg/
+yt-dlp.exe
