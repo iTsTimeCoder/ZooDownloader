@@ -8,6 +8,7 @@ A C++ GUI downloader powered by yt-dlp and ffmpeg.
 - Multiple formats
 
 ## Requirements
+- If You Need Edit Please install FFmpeg and yt-dlp manually:
 - yt-dlp
 - ffmpeg
 
