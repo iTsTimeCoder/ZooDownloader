@@ -1,13 +1,10 @@
-# 🐾 ZooDownloader
-![ICON](./app_icon.ico)
-
+# <img src="./app_icon.ico" width="30" height="30" align="center"> ZooDownloader
 ![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 A powerful C++ GUI media downloader powered by yt-dlp and FFmpeg.
-
 ---
 
 ## 📸 Screenshots
